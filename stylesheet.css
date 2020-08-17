@@ -1,11 +1,11 @@
 @charset "utf.css";
 
 .header-logo{
-  font-family:fantasy;
+  font-family:anton;
   float:left;
   font-size: 35px;
   color:#0000ff;
-  background-color:#ee7800;
+  background-color:whitesmoke;
   height:50px;
 }
 
@@ -13,9 +13,9 @@ li{
   list-style:none;
   float:left;
   font-size: 20px;
-  font-family:fantasy;
+  font-family:anton;
   color:black;
-  background-color:lime;
+  background-color:mediumspringgreen;
   height:30px;
   padding: 10px;
 }
